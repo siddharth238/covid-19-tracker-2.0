@@ -6,4 +6,4 @@
 <li>https://disease.sh/v3/covid-19/all</li>
 <li>https://disease.sh/v3/covid-19/countries</li>
 </ol>
-<h3>This web application uses leaflet opensource Java Script library to view the live results on world map</h3>
+<h3>This web application uses leaflet and chart Js opensource Java Script libraries to view the live results and statistics on world map and Line chart</h3>
